@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+HEAD
 Random Changes.
-=======
+
 booya
->>>>>>> history
+history
